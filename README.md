@@ -6,6 +6,6 @@ O projeto tem a proposta de conectar empresas/entidades que coletam resíduos (o
 
 ## Tecnologias Utilizadas
 - Node.js -- Backend desenvolvido na estrutura de REST API com TypeScript
-- MongoDB -- Banco de dados NoSQL utilizado para armazenar os dados pertinentes para o funcionamento do frontend web e mobile.
+- SQLite -- Banco de dados SQL utilizado para armazenar os dados pertinentes para o funcionamento do frontend web e mobile.
 - React -- Frontend Web desenvolvido com React que tem como base TypeScript, assim, facilitando a integração de frontend com backend.
 - React Native -- Aplicativo mobile desenvolvido com React Native que funciona tanto em Android quanto em IOS de forma nativa.
